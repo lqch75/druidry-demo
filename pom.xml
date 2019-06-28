@@ -4,10 +4,10 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.gwhome</groupId>
-	<artifactId>bigdata</artifactId>
+	<artifactId>druidry-demo</artifactId>
 	<version>1.0.0</version>
 	<packaging>jar</packaging>
-	<name>bigdata</name>
+	<name>druidry-demo</name>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>

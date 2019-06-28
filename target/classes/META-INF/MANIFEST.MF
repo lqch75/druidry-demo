@@ -1,10 +1,10 @@
 Manifest-Version: 1.0
 Built-By: Tony Almeida
 Build-Jdk: 11.0.2
-Implementation-Title: bigdata
+Implementation-Title: druidry-demo
 Implementation-Version: 1.0.0
 Implementation-Vendor-Id: com.gwhome
 Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
- -starter-parent/bigdata
+ -starter-parent/druidry-demo
 Created-By: Maven Integration for Eclipse
 
